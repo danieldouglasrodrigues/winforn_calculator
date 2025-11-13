@@ -1,4 +1,4 @@
-# VLS Calculator 
+# DDRL Calculator 
 
 Este é um simples projeto, feito em `Windows Forms` com `C#`, de uma calculadora de operações básicas da matemática.
 
@@ -15,5 +15,3 @@ Este é um simples projeto, feito em `Windows Forms` com `C#`, de uma calculador
 - X elevado a potência de Y:
 
 ![alt text](image-2.png)
-
-Baixe a versão do programa [aqui](https://github.com/victorluansilva/vls-winforms-calculator/releases/tag/v1.0)
